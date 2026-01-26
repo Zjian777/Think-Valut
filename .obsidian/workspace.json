@@ -20,23 +20,6 @@
               "icon": "lucide-file",
               "title": "指数基金定投指南"
             }
-          },
-          {
-            "id": "3bf2c24e919d6614",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Notes/小岛经济学.canvas",
-                "viewState": {
-                  "x": -209,
-                  "y": 2070,
-                  "zoom": -2.775905283432552
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "小岛经济学"
-            }
           }
         ]
       }
@@ -206,12 +189,12 @@
   },
   "active": "12bfb37c6e45a56e",
   "lastOpenFiles": [
-    "Notes/小岛经济学.canvas",
-    "Notes/小岛经济学.md",
     "Notes/经济学原理-微观经济学部分.md",
-    "Notes/MIT 14.01 Principles of Microeconomics.md",
-    "Notes/指数基金定投指南.md",
     "README.md",
+    "Notes/小岛经济学.canvas",
+    "Notes/指数基金定投指南.md",
+    "Notes/小岛经济学.md",
+    "Notes/MIT 14.01 Principles of Microeconomics.md",
     "Figures/Pasted image 20260121114908.png",
     "Figures/Pasted image 20260121114532.png",
     "Figures/Pasted image 20260121112809.png",
