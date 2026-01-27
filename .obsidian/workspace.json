@@ -8,20 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12bfb37c6e45a56e",
+            "id": "de4bf710bfe68fb6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Notes/小岛经济学.canvas",
-                "viewState": {
-                  "x": 166.7887649183781,
-                  "y": 4654.463741212797,
-                  "zoom": -0.1111110432942708
-                }
+                "file": "Literature/临床科研.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "小岛经济学"
+              "icon": "lucide-file",
+              "title": "临床科研"
             }
           }
         ]
@@ -81,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "021d927ebe76e3c7",
@@ -189,15 +187,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12bfb37c6e45a56e",
+  "active": "de4bf710bfe68fb6",
   "lastOpenFiles": [
+    "Notes/小岛经济学.canvas",
+    "Literature/临床科研.md",
+    "Literature",
     "README.md",
     "Notes/MIT 14.01 Principles of Microeconomics.md",
     "Notes/小岛经济学.md",
     "Notes/经济学原理-微观经济学部分.md",
     "Figures/Pasted image 20260120220346.png",
     "Notes/指数基金定投指南.md",
-    "Notes/小岛经济学.canvas",
     "Figures/Pasted image 20260121114908.png",
     "Figures/Pasted image 20260121114532.png",
     "Figures/Pasted image 20260121112809.png",
