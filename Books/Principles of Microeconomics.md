@@ -1,3 +1,4 @@
+#MIT
 # Some conceptions
  scarcity 
  opportunity cost
