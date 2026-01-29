@@ -1,4 +1,8 @@
 {
   "promptDelete": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Figures",
+  "strictLineBreaks": true
 }

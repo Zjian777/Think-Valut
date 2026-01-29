@@ -1,7 +1,7 @@
 {
-  "accentColor": "#5481e8",
-  "cssTheme": "Minimal",
-  "theme": "system",
+  "accentColor": "",
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "moonstone",
   "textFontFamily": "Microsoft YaHei,Arial",
   "baseFontSize": 23
 }

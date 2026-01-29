@@ -1,0 +1,11 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@toggle-calendar-shadow": false,
+  "blue-topaz-theme@@bg-markdown-page-opacity-cp": 0.35,
+  "blue-topaz-theme@@interactive-accent@@light": "#70E23000",
+  "blue-topaz-theme@@text-normal@@light": "#000000",
+  "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent"
+}
