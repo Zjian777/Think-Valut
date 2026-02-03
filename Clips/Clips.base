@@ -1,0 +1,19 @@
+formulas:
+  未命名: ""
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("Clips")
+    order:
+      - file.name
+      - file.basename
+      - file.ctime
+      - file.embeds
+    sort:
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 217
+      file.basename: 170

@@ -6,4 +6,7 @@
 - [Principles of Microeconomics](Books/Principles%20of%20Microeconomics.md)
 ## 思考方式
 - [思考，快与慢](Books/思考，快与慢.md)
-- 
+
+# 专业技能
+## 数学
+### 
