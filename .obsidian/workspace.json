@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb7478b44ce39b0",
+        "id": "6f381981da05cf05",
         "type": "tabs",
         "children": [
           {
-            "id": "deff4bcaf88ea311",
+            "id": "1f7a446a3a55d806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/大多数的疾病预测模型对实际临床根本没有用.md",
+                "file": "Zettelkasten/价值投资不是长期持有.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "大多数的疾病预测模型对实际临床根本没有用"
-            }
-          },
-          {
-            "id": "86dcec2c7934a2ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/大多数的疾病预测模型对实际临床根本没有用.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "大多数的疾病预测模型对实际临床根本没有用"
+              "title": "价值投资不是长期持有"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -46,7 +32,7 @@
     "type": "split",
     "children": [
       {
-        "id": "955fd0a92783dcea",
+        "id": "713431e6bf926e6a",
         "type": "tabs",
         "children": [
           {
@@ -80,7 +66,7 @@
             }
           },
           {
-            "id": "cbc2614819028a07",
+            "id": "72ba760dab9855dc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,36 +90,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f5ba49fe926c056",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
-            }
-          },
-          {
             "id": "88a72f65dc58cc9c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Zettelkasten/股息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "股息 的出链列表"
             }
           },
           {
@@ -197,58 +164,60 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "86dcec2c7934a2ec",
+  "active": "1f7a446a3a55d806",
   "lastOpenFiles": [
-    "Literature/临床科研怎么找选题.md",
-    "Literature/大多数的疾病预测模型对实际临床根本没有用.md",
+    "Books/市场杂想.md",
+    "Books/思考，快与慢.md",
+    "Books/小岛经济学.md",
     "Books/指数基金定投指南.md",
-    "Zettelkasten/股息.md",
-    "Zettelkasten/博格公式.md",
-    "Zettelkasten/估值指标.md",
-    "Zettelkasten/ROE.md",
-    "Clips/Clips.base",
+    "Books/Principles of Microeconomics.md",
     "Books/经济学原理-微观经济学部分.md",
-    "Literature/Predict Breast 模型.md",
-    "Clips/帝王蟹为什么贵.md",
+    "Zettelkasten/股息.md",
+    "Literature/科研记录本.md",
+    "Literature/科研大杂烩.md",
+    "Zettelkasten/大多数的疾病预测模型对实际临床根本没有用.md",
+    "Zettelkasten/临床科研怎么找选题.md",
+    "Zettelkasten/Inhibitory PD-1 axis maintains high-avidity  stem-like CD8+ T cells.md",
+    "Zettelkasten/食管外科领域团队汇总.md",
+    "Zettelkasten/单细胞流程常见问题.md",
     "README.md",
-    "Clips/未命名.md",
+    "Zettelkasten/止盈逻辑.md",
+    "Zettelkasten/频繁交易为什么不好.md",
+    "Zettelkasten/价值投资不是长期持有.md",
+    "Zettelkasten/了解行业先看书.md",
+    "Zettelkasten/行业的供需关系.md",
+    "Zettelkasten/最新的产业发展还得看行业文件和地方文件.md",
+    "Zettelkasten/单细胞文章从低分到高分.md",
+    "Zettelkasten/格雷厄姆价值投资理念.md",
+    "Zettelkasten/大A全是骗子.md",
+    "Zettelkasten/博格公式.md",
+    "Zettelkasten/股市交易的技术面.md",
+    "Figures/Pasted image 20260216203938.png",
+    "Figures/Pasted image 20260216203924.png",
+    "Figures/Pasted image 20260216203909.png",
+    "Figures/Pasted image 20260215222014.png",
+    "Clips/Clips.base",
     "Zettelkasten/未命名.base",
     "Figures/Pasted image 20260131212100.png",
     "Clips",
-    "Template/ZettelkastenTemplate.md",
-    "Books/Principles of Microeconomics.md",
-    "Books/小岛经济学.md",
-    "Books/思考，快与慢.md",
-    "Zettelkasten/格雷厄姆价值投资理念.md",
-    "Zettelkasten/经济学原理—微观经济学部分.md",
     "Figures/Pasted image 20260121112146.png",
     "Figures/Pasted image 20260121110706.png",
     "Figures/Pasted image 20260120233115.png",
     "Figures/Pasted image 20260120224424.png",
     "Figures/Pasted image 20260120220350.png",
-    "Figures/Pasted image 20260120220346.png",
     "Books/小岛经济学.canvas",
-    "Zettelkasten/().md",
-    "Zettelkasten/myteest.md",
-    "Zettelkasten/source.md",
-    "Zettelkasten/Invalid date.md",
     "Template",
     "CardBooks",
     "Zettelkasten",
-    "Figures/Pasted image 20260121114908.png",
-    "Figures/Pasted image 20260121112809.png",
-    "Figures/Pasted image 20260121111819.png",
     "Literature",
     "Figures",
-    "笔记/指数基金定投指南.md",
     "Books",
-    "笔记/MIT 14.01 Principles of Microeconomics.md",
     "笔记/小岛经济学.canvas",
     "图片",
-    "笔记/一个经济学模型的模拟——《小岛经济学》.md",
     "未命名.canvas"
   ]
 }
